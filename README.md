@@ -1,7 +1,4 @@
-# Exploring-Recurrent-Neural-Networks-RNN-LSTMs-and-GRUs-with-Embedding-Layers-on-Text-Data
-
-### Project Title:
-**"Exploring Recurrent Neural Networks (RNN), LSTMs, and GRUs with Embedding Layers on Text Data"**
+# Exploring Recurrent Neural Networks(RNN, LSTMs and GRUs) with Embedding Layers on Text Data
 
 ### Steps for the Project:
 
